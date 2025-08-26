@@ -131,8 +131,8 @@ PCI DSS is more than just a checklist — it’s a **framework for building secu
 
 ---
 
-- 🔗 [My GitHub](https://github.com/dimejoyediran)  
+- 🔗 [GitHub](https://github.com/dimejioyediran)  
 - ✉️ Email: dimejioyemarky@gmail.com  
-- 🔗 [My LinkedIn](https://www.linkedin.com/in/oladimeji-oyediran-657658238)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/oladimeji-oyediran-657658238)  
 
 ---
