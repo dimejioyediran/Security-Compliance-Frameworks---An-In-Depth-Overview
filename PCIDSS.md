@@ -130,8 +130,7 @@ This is PCI DSS compliance in practice — **securing both the customer and the 
 PCI DSS is more than just a checklist — it’s a **framework for building secure environments** where payment card data is protected. By following its 12 requirements, businesses not only remain compliant but also reduce risk, improve cybersecurity posture, and maintain customer trust.  
 
 ---
-
-- 🔗 [GitHub](https://github.com/dimejioyediran)  
+  
 - ✉️ Email: dimejioyemarky@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/oladimeji-oyediran-657658238)  
 
