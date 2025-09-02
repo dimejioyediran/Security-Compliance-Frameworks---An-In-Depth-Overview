@@ -34,7 +34,7 @@ ISO/IEC 27001 is just one part of a larger family of standards known as the **IS
 Some of the **most popular standards in the series** include:
 
 - **ISO/IEC 27000**: Provides an overview of the series and key definitions.  
-- **ISO/IEC 27001**: The main standard for ISMS requirements.  
+- **ISO/IEC 27001**: The main standard for Information Security Management System (ISMS) requirements.  
 - **ISO/IEC 27002**: A code of practice that provides best-practice guidelines for implementing security controls.  
 - **ISO/IEC 27005**: Focused on information security risk management.  
 - **ISO/IEC 27017**: Security controls specific to cloud services.  
