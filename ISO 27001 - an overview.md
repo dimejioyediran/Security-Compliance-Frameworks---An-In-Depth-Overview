@@ -100,7 +100,7 @@ Organizations seeking certification must go through these steps:
 
 ISO/IEC 27001 and the wider 27000 series play a critical role in **bridging cybersecurity with business needs**. They give organizations a **clear framework for protecting information** while meeting compliance obligations.  
 
-For professionals like me—still learning and building practical skills—understanding these standards is a step toward mastering how businesses safeguard data in a structured, globally recognized way.  
+For professionals like me still learning and building practical skills—understanding these standards is a step toward mastering how businesses safeguard data in a structured, globally recognized way.  
 
 ---
 
