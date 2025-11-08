@@ -1,6 +1,6 @@
 # NIST Cybersecurity Framework — An In-Depth Guide
 
-## Short description
+## Description
 A comprehensive, practical, and beginner-friendly deep dive into the **NIST Cybersecurity Framework (CSF)**. This explainer covers the Framework’s purpose and history, the five Core Functions and their categories/subcategories, Implementation Tiers, Profiles, mapping to other standards, a step-by-step implementation roadmap, metrics and measurement, common pitfalls, and practical examples. Ideal for learners building a compliance/controls knowledge base or preparing to support a security program.
 
 ---
